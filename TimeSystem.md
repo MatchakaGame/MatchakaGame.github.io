@@ -48,7 +48,7 @@
 - Game over if total time reaches 0
 
 ## Continue Token System
-When using a continue token:
+When using a continue token (Or watching an Ad to continue):
 1. Base time is fully restored to level default
 2. Bonus time restored to greater of:
    - Currently accumulated bonus time
