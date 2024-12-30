@@ -1,47 +1,5 @@
 # Matchaka Points System Documentation
 
-## Core Point Sources
-
-### 1. Base Level Reward
-- 30 points per level completed
-- Fixed reward regardless of performance
-
-### 2. Level Bonus
-Points awarded upon level completion:
-- Levels 1-9: 5 points × (level - 1)
-  Example: Level 5 gives 20 bonus points (5 × 4)
-- Levels 10-25: 40 + 8 points × (level - 9)
-  Example: Level 15 gives 88 bonus points (40 + 8 × 6)
-- Levels 26-34: 168 + 12 points × (level - 25)
-  Example: Level 30 gives 228 bonus points (168 + 12 × 5)
-- Levels 35+: 276 + 15 points × (level - 34)
-  Example: Level 40 gives 366 bonus points (276 + 15 × 6)
-
-### 3. Speed Bonus
-Points per second of remaining time:
-- Levels 1-9: 1.0 points/second
-- Levels 10-25: 1.5 points/second
-- Levels 26-34: 2.0 points/second
-- Levels 35+: 2.5 points/second
-
-### 4. Multiplier Chain Bonus
-- Base: (multiplier - 1) × 10 points
-- Scaling by level:
-  - Levels 1-9: Base bonus
-  - Levels 10-25: Base bonus × 1.5
-  - Levels 26-34: Base bonus × 2.0
-  - Levels 35+: Base bonus × 2.5
-
-#### (Multiplier Build-up)
-- Starting value: 1x
-- Each successful match: +1 to multiplier
-- No maximum cap on multiplier
-- Resets to 1x when:
-  - Making a mismatch
-  - Starting a new level
-  - Using a continue token
-  - Game over
-
 ## Average Total Points Per Level
 
 ### Early Game (1-9)
