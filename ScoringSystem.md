@@ -32,15 +32,15 @@ Points per second of remaining time:
   - Levels 26-34: Base bonus × 2.0
   - Levels 35+: Base bonus × 2.5
 
- #### (Multiplier Build-up)
-    1. Starting value: 1x
-    2. Each successful match: +1 to multiplier
-    3. No maximum cap on multiplier
-    4. Resets to 1x when:
-       - Making a mismatch
-       - Starting a new level
-       - Using a continue token
-       - Game over
+#### (Multiplier Build-up)
+- Starting value: 1x
+- Each successful match: +1 to multiplier
+- No maximum cap on multiplier
+- Resets to 1x when:
+  - Making a mismatch
+  - Starting a new level
+  - Using a continue token
+  - Game over
 
 ## Average Total Points Per Level
 
