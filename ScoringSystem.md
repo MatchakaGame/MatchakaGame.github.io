@@ -1,4 +1,4 @@
-# Matchaka Scoring System Documentation
+# Matchaka Points System Documentation
 
 ## Core Point Sources
 
@@ -48,7 +48,7 @@ Total Range: 50-110 points
 - Multiplier Bonus: ~15-30 (base × 1.5)
 Total Range: 108-258 points
 
-### Grandmaster (26-34)
+### Pro (26-34)
 - Base Reward: 30
 - Level Bonus: 180-276
 - Speed Bonus: ~20-40 (10-20 seconds saved × 2.0)
@@ -61,28 +61,3 @@ Total Range: 250-386 points
 - Speed Bonus: ~25-50 (10-20 seconds saved × 2.5)
 - Multiplier Bonus: ~25-50 (base × 2.5)
 Total Range: 356+ points
-
-## Notes
-1. Base time per level is 30 seconds
-2. Time penalties increase with difficulty:
-   - Levels 1-9: 5 second penalty
-   - Levels 10-34: 10 second penalty
-   - Levels 35+: 15 second penalty
-3. Points increase significantly with level progression due to:
-   - Higher level bonuses
-   - Increased speed bonus multipliers
-   - Larger multiplier chain bonuses
-4. Master levels (35+) offer highest point potential
-5. Maintaining multipliers becomes increasingly valuable in higher levels
-6. Actual scores may vary based on:
-   - Pattern matching speed
-   - Accuracy (avoiding mismatches)
-   - Time management
-   - Multiplier chain maintenance
-7. New players receive 1000 initial points
-8. Debug mode provides 10000 points and 3 time stop tokens for testing
-
-## Store Item Prices
-- Continue Token: 3500 points
-- Level Skip Token: 5000 points
-- Time Stop Token: 2500 points 
